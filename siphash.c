@@ -18,6 +18,7 @@
 #include <stdint.h>
 #include <stdio.h>
 #include <string.h>
+#include "siphash.h"
 
 /* default: SipHash-2-4 */
 #define cROUNDS 2
