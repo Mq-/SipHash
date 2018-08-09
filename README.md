@@ -4,6 +4,8 @@
 
 Changes were made to use the reference implementation as a module for a C program.
 
+---
+
 Reference implementation of SipHash, a family of pseudorandom functions
 optimized for speed on short messages.
 
